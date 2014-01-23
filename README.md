@@ -1,6 +1,7 @@
 ipython-notebooks
 =================
 
+[ipython-notebooks](http://nbviewer.ipython.org/github/wilsonfreitas/ipython-notebooks/tree/master/)
 
 ## Posts
 
